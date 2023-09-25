@@ -8,7 +8,6 @@ ____
 # MERGE SORT
 ## http://www.spoj.com/problems/MERGSORT/
 
-## Descrição:
 Sort the numbers on the standard input using the merge sort algorithm. Don't try to cheat by just calling your build in functions... I can see your source.
 
 ## Input

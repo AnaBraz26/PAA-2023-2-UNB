@@ -8,10 +8,10 @@ ____
 # MERGE SORT
 ## http://www.spoj.com/problems/MERGSORT/
 
-##Descrição:
+## Descrição:
 Sort the numbers on the standard input using the merge sort algorithm. Don't try to cheat by just calling your build in functions... I can see your source.
 
-##Input
+## Input
 On the standard input you will receive N (1 <= N <= 100000). Each number will fit in 32-bit integer
 
 ## Output
@@ -41,7 +41,9 @@ Output T lines, containing the required answer for each test case.
 
 ## Constraints
 1 <= T <= 5
+
 1 <= N <= 100000
+
 1 <= a[i] <= 1000000
 ____
 # BUSCA BINÁRIA
@@ -52,7 +54,13 @@ You are given a sorted array of numbers, and followed by number of queries, for 
 ## Input
 First line contains N Q, number of elements in the array and number of queries to follow.
 
-Second line contains N numbers, the elements of the array. Each number will be -10^9 <= ai <= 10^9, 0 < N <= 10^5, 0 < Q <= 5*10^5
+Second line contains N numbers, the elements of the array. Each number will be 
+
+-10^9 <= ai <= 10^9
+
+0 < N <= 10^5
+
+0 < Q <= 5*10^5
 
 ## Output
 For each element in the query, print the elements 0 based location of its first occurence, if present, otherwise print -1.
@@ -60,5 +68,4 @@ For each element in the query, print the elements 0 based location of its first 
 # Para compilação do programa
 gcc (nomedoprograma.c) -o (nome.exe)
 
-Após utilizar:
 ./(nome.exe)

@@ -1,6 +1,6 @@
 # Algoritmos 
 
-Para este trabalho deve-se implementar os algoritmos de Quick Sort com Hoare partiotion e The Knapsack Problem seguindo as especificações de desempenho do site SPOJ.
+Para este trabalho deve-se implementar os algoritmos de Quick Sort com Hoare partition e The Knapsack Problem seguindo as especificações de desempenho do site SPOJ.
 
 Página do usuário:
 https://www.spoj.com/status/carolb_26/
